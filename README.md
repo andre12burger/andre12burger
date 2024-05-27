@@ -7,7 +7,7 @@
 - 📚 Atualmente cursando Engenharia de automação na FURG
   
 
-- 👩‍💻 Aprendendo Flutter
+- 👩‍💻 Aprendendo Machine Learning
   
 
 - ⚡ Fanático por corrida de rua
