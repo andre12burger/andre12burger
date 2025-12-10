@@ -44,10 +44,10 @@ Os projetos a seguir demonstram meu foco em Inteligência Artificial, Engenharia
 
 ## 📈 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=andre12burger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150px" />
-  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre12burger&layout=compact&langs_count=6&theme=dracula" height="150px" />
-</div>
+<p align="center">
+  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=andre12burger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150px">
+  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre12burger&layout=compact&langs_count=6&theme=dracula" height="150px">
+</p>
 
 ## 📫 Conecte-se Comigo
 
