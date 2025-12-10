@@ -41,7 +41,7 @@ Os projetos a seguir demonstram meu foco em Inteligência Artificial, Engenharia
     > **Descrição:** Exploração e comparação de três abordagens de Classificação de Imagens (Treinamento do Zero, Pré-Treinamento e Fine-Tuning) utilizando Redes Neurais Convolucionais (CNNs) no dataset CIFAR-10.
     > **Tecnologias:** Python, PyTorch, CNN, Fine-Tuning, Métricas (Accuracy, F1-Score).
 
-
+ 
 ## 📈 Minhas Estatísticas no GitHub
 
 <p align="center">
