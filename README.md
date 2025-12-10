@@ -5,8 +5,6 @@
 
 - 🎓 **Estudante de Engenharia de Automação** na [Universidade Federal do Rio Grande (FURG)](https://www.furg.br).
 - 🧠 **Apaixonado por Machine Learning e Deep Learning**, com foco em **Visão Computacional**.
-- 🔭 **Atualmente trabalhando com:** **Classificação de Imagens** usando **Redes Neurais Convolucionais (CNNs)** e a biblioteca **PyTorch**.
-- 🌱 **Aprendendo no momento:** Aprofundando em **Deploy de Modelos de ML** com **Flask** e **Docker**.
 - 🚀 **Busco oportunidades em:** Áreas que envolvam **IA, Automação, Python e Desenvolvimento de Software**.
 - 🏋️‍♂️ **No tempo livre:** Corrida e Musculação!
 
@@ -41,13 +39,6 @@ Os projetos a seguir demonstram meu foco em Inteligência Artificial, Engenharia
     > **Descrição:** Exploração e comparação de três abordagens de Classificação de Imagens (Treinamento do Zero, Pré-Treinamento e Fine-Tuning) utilizando Redes Neurais Convolucionais (CNNs) no dataset CIFAR-10.
     > **Tecnologias:** Python, PyTorch, CNN, Fine-Tuning, Métricas (Accuracy, F1-Score).
 
- 
-## 📈 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=andre12burger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150px">
-  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre12burger&layout=compact&langs_count=6&theme=dracula" height="150px">
-</p>
 
 ## 📫 Conecte-se Comigo
 
