@@ -1,37 +1,44 @@
-# <div align="center"> Olá! Eu sou o André! 👋 </div> 
 
-</div>  
+# Olá! Eu sou o André! 👋
 
-## Sobre mim
-- 🎓 Estudante de Engenharia de Automação na [Universidade Federal do Rio Grande (FURG)](https://www.furg.br)
-- 💻 Apaixonado por programação e desenvolvimento de projetos de IA
-- 🔭 Atualmente trabalhando com **classificação de imagens usando Redes Neurais Convolucionais** e **PyTorch**
-- 🏋️‍♂️ Também estou focado em corrida e musculação no meu tempo livre
- 
-<br/> 
+## Sobre Mim
 
-## Linguagens e Ferramentas
-<div align="center"> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+- 🎓 **Estudante de Engenharia de Automação** na [Universidade Federal do Rio Grande (FURG)](https://www.furg.br).
+- 🧠 **Apaixonado por Machine Learning e Deep Learning**, com foco em **Visão Computacional**.
+- 🔭 **Atualmente trabalhando com:** **Classificação de Imagens** usando **Redes Neurais Convolucionais (CNNs)** e a biblioteca **PyTorch**.
+- 🌱 **Aprendendo no momento:** Aprofundando em **Deploy de Modelos de ML** com **Flask** e **Docker**.
+- 🚀 **Busco oportunidades em:** Áreas que envolvam **IA, Automação, Python e Desenvolvimento de Software**.
+- 🏋️‍♂️ **No tempo livre:** Corrida e Musculação!
 
+## 🛠️ Linguagens e Ferramentas
 
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
+| **Machine Learning / IA** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
+| **Desenvolvimento Web/Outros** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
 
-</div>
+## 🚀 Projetos em Destaque
 
-## Minhas redes
+* **[Flower Classifier CNN](LINK_PARA_REPO):** Classificador de imagens de flores usando Transfer Learning (ResNet) e PyTorch.
+    > Tecnologias: Python, PyTorch, CNN, Matplotlib.
+* **[Web Task Manager with Flask](LINK_PARA_REPO):** Aplicação web para gerenciamento de tarefas com back-end em Flask e persistência de dados.
+    > Tecnologias: Python, Flask, HTML/CSS.
+* **[PID Controller Simulation](LINK_PARA_REPO):** Simulação de um controlador PID (Proporcional-Integral-Derivativo) em C++ para sistemas de controle.
+    > Tecnologias: C++, Controle de Sistemas.
+
+## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andre12burger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre12burger&layout=compact&langs_count=6&theme=dracula"/>
+</div>
 
-<a href="https://www.linkedin.com/in/andré-luiz-ditzel-burger-306238203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/andre25burger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>  
-  
+## 📫 Conecte-se Comigo
 
-<br/>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/andré-luiz-ditzel-burger-306238203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andre25burger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:andreburger.furg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
