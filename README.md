@@ -15,23 +15,38 @@
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| **Machine Learning / IA** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
-| **Desenvolvimento Web/Outros** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| **Machine Learning / Visão Comp.** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00B2A9?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
+| **Data Science / Banco de Dados** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> |
+| **Desenvolvimento/Infra** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+| **Hardware / Automação** | <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=xilinx&logoColor=white" /> <img src="https://img.shields.io/badge/Vivado-0078D4?style=for-the-badge&logo=xilinx&logoColor=white" /> <img src="https://img.shields.io/badge/FPGA-000000?style=for-the-badge&logo=xilinx&logoColor=white" /> |
 
 ## 🚀 Projetos em Destaque
 
-* **[Flower Classifier CNN](LINK_PARA_REPO):** Classificador de imagens de flores usando Transfer Learning (ResNet) e PyTorch.
-    > Tecnologias: Python, PyTorch, CNN, Matplotlib.
-* **[Web Task Manager with Flask](LINK_PARA_REPO):** Aplicação web para gerenciamento de tarefas com back-end em Flask e persistência de dados.
-    > Tecnologias: Python, Flask, HTML/CSS.
-* **[PID Controller Simulation](LINK_PARA_REPO):** Simulação de um controlador PID (Proporcional-Integral-Derivativo) em C++ para sistemas de controle.
-    > Tecnologias: C++, Controle de Sistemas.
+Os projetos a seguir demonstram meu foco em Inteligência Artificial, Engenharia de Software e Automação de Hardware:
+
+* **[Random-char-generator-DnD-5e] | Gerador de Personagens D&D 5e (Web App)**
+    > **Descrição:** Aplicação completa que automatiza a criação de fichas de personagens para Dungeons & Dragons 5e. O sistema usa **Web Scraping** para extração de dados brutos, armazena em **SQLite** e utiliza **Flask** para gerar e preencher documentos PDF através de uma interface web.
+    > **Tecnologias:** Python, Flask, Web Scraping, SQLite, PDF Generation.
+
+* **[fpga-memoria-fsm-dual-display-basys3] | Controladora de Memória com FSM em VHDL**
+    > **Descrição:** Implementação de um sistema avançado de memória para FPGA Xilinx Basys3. O projeto utiliza **Máquina de Estados Finitos (FSM)** para controlar sequências automáticas de escrita e leitura, exibindo resultados em displays de 7 segmentos.
+    > **Tecnologias:** VHDL, FSM, FPGA Xilinx Basys3, Vivado.
+
+* **[leitor_de_libras] | Reconhecimento de LIBRAS em Tempo Real**
+    > **Descrição:** Sistema de Visão Computacional que detecta e traduz gestos isolados da Língua Brasileira de Sinais (LIBRAS) para texto em **tempo real**. Utiliza **MediaPipe** para rastreamento de landmarks das mãos e um modelo **MLP** treinado do zero.
+    > **Tecnologias:** Python, MediaPipe, OpenCV, NumPy, MLP (Rede Neural Densa).
+
+
+* **[CNN_ImageClassification] | Estudo de Classificação com PyTorch**
+    > **Descrição:** Exploração e comparação de três abordagens de Classificação de Imagens (Treinamento do Zero, Pré-Treinamento e Fine-Tuning) utilizando Redes Neurais Convolucionais (CNNs) no dataset CIFAR-10.
+    > **Tecnologias:** Python, PyTorch, CNN, Fine-Tuning, Métricas (Accuracy, F1-Score).
+
 
 ## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andre12burger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre12burger&layout=compact&langs_count=6&theme=dracula"/>
+  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=andre12burger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150px" />
+  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre12burger&layout=compact&langs_count=6&theme=dracula" height="150px" />
 </div>
 
 ## 📫 Conecte-se Comigo
