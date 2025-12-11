@@ -35,9 +35,9 @@ Os projetos a seguir demonstram meu foco em Inteligência Artificial, Engenharia
     > **Tecnologias:** Python, MediaPipe, OpenCV, NumPy, MLP (Rede Neural Densa).
 
 
-* **[CNN_ImageClassification] | Estudo de Classificação com PyTorch**
-    > **Descrição:** Exploração e comparação de três abordagens de Classificação de Imagens (Treinamento do Zero, Pré-Treinamento e Fine-Tuning) utilizando Redes Neurais Convolucionais (CNNs) no dataset CIFAR-10.
-    > **Tecnologias:** Python, PyTorch, CNN, Fine-Tuning, Métricas (Accuracy, F1-Score).
+* **[autofill_information_extension] | Extensão de Preenchimento Automático Inteligente**
+    > **Descrição:** Extensão de navegador (Chrome/Opera/Edge) que automatiza o preenchimento de formulários web com 100% de precisão, utilizando detecção visual-first e mapeamento inteligente de campos. Inclui validação em tempo real, exportação/importação de dados e suporte para 103 tipos de campos diferentes.
+    > **Tecnologias:** JavaScript, Chrome Extension API (Manifest V3), Chrome Storage API, HTML5, CSS3, Git/GitHub Pages.
 
 
 ## 📫 Conecte-se Comigo
