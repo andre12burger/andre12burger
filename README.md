@@ -1,6 +1,10 @@
 
 # Olá! Eu sou o André! 👋
 
+<div align="center">
+  <img src="https://github.com/andre12burger/andre12burger/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
 ## Sobre Mim
 
 - 🎓 **Estudante de Engenharia de Automação** na [Universidade Federal do Rio Grande (FURG)](https://www.furg.br).
@@ -17,28 +21,6 @@
 | **Data Science / Banco de Dados** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> |
 | **Desenvolvimento/Infra** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
 | **Hardware / Automação** | <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=xilinx&logoColor=white" /> <img src="https://img.shields.io/badge/Vivado-0078D4?style=for-the-badge&logo=xilinx&logoColor=white" /> <img src="https://img.shields.io/badge/FPGA-000000?style=for-the-badge&logo=xilinx&logoColor=white" /> |
-
-## 🚀 Projetos em Destaque
-
-Os projetos a seguir demonstram meu foco em Inteligência Artificial, Engenharia de Software e Automação de Hardware:
-
-* **[Random-char-generator-DnD-5e] | Gerador de Personagens D&D 5e (Web App)**
-    > **Descrição:** Aplicação completa que automatiza a criação de fichas de personagens para Dungeons & Dragons 5e. O sistema usa **Web Scraping** para extração de dados brutos, armazena em **SQLite** e utiliza **Flask** para gerar e preencher documentos PDF através de uma interface web.
-    > **Tecnologias:** Python, Flask, Web Scraping, SQLite, PDF Generation.
-
-* **[fpga-memoria-fsm-dual-display-basys3] | Controladora de Memória com FSM em VHDL**
-    > **Descrição:** Implementação de um sistema avançado de memória para FPGA Xilinx Basys3. O projeto utiliza **Máquina de Estados Finitos (FSM)** para controlar sequências automáticas de escrita e leitura, exibindo resultados em displays de 7 segmentos.
-    > **Tecnologias:** VHDL, FSM, FPGA Xilinx Basys3, Vivado.
-
-* **[leitor_de_libras] | Reconhecimento de LIBRAS em Tempo Real**
-    > **Descrição:** Sistema de Visão Computacional que detecta e traduz gestos isolados da Língua Brasileira de Sinais (LIBRAS) para texto em **tempo real**. Utiliza **MediaPipe** para rastreamento de landmarks das mãos e um modelo **MLP** treinado do zero.
-    > **Tecnologias:** Python, MediaPipe, OpenCV, NumPy, MLP (Rede Neural Densa).
-
-
-* **[autofill_information_extension] | Extensão de Preenchimento Automático Inteligente**
-    > **Descrição:** Extensão de navegador (Chrome/Opera/Edge) que automatiza o preenchimento de formulários web com 100% de precisão, utilizando detecção visual-first e mapeamento inteligente de campos. Inclui validação em tempo real, exportação/importação de dados e suporte para 103 tipos de campos diferentes.
-    > **Tecnologias:** JavaScript, Chrome Extension API (Manifest V3), Chrome Storage API, HTML5, CSS3, Git/GitHub Pages.
-
 
 ## 📫 Conecte-se Comigo
 
