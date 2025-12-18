@@ -16,15 +16,17 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: andre12burger
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           
-
+          # AQUI ESTÁ O TRUQUE:
+          # Removemos 'activity' e 'community'. Deixamos só o cabeçalho e os repositórios (onde estão os dados bons)
+          base: header, repositories
+          
+          # Plugin de Linhas (O seu ponto forte)
           plugin_lines: yes
           plugin_lines_delay: 30
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 10
-          # Isso diz para não baixar arquivos binários gigantes, o que resolve o bug do 0
           plugin_lines_skipped: |
             *.pth
             *.pt
@@ -33,3 +35,8 @@ jobs:
             *.png
             *.mp4
             *.zip
+            
+          # Plugin de Linguagens (Visual bonito e profissional)
+          plugin_languages: yes
+          plugin_languages_colors: "github"
+          plugin_languages_threshold: 1%
