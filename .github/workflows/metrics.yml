@@ -21,14 +21,15 @@ jobs:
           
 
           plugin_lines: yes
-          plugin_lines_delay: 15
+          plugin_lines_delay: 30
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 10
-          # LISTA NEGRA: Coloque aqui o nome exato dos repositórios que são só DATASETS pesados
-          # Isso libera o robô para contar o código dos outros projetos sem travar
+          # Isso diz para não baixar arquivos binários gigantes, o que resolve o bug do 0
           plugin_lines_skipped: |
-            nome-do-repo-de-imagens
-            nome-do-repo-de-pesos
-            
-          # Opcional: Tenta ignorar arquivos binários automaticamente
-          plugin_lines_sections: base
+            *.pth
+            *.pt
+            *.h5
+            *.jpg
+            *.png
+            *.mp4
+            *.zip
